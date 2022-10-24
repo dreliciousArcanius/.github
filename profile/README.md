@@ -3,7 +3,7 @@
 Drelicious Arcanius is an organization that's leaded by Drelicious. This organization is aimed to tackle new things and to share the beautiful power of code.
 
 # Where can you contact me?
-- Discord : Drelicious#7232
+- ✉️ : drelicious@dreliciousarcanius.com
 <!--
 **Drelicious/Drelicious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
