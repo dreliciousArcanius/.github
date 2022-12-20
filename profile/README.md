@@ -1,5 +1,5 @@
-# 💫 About Us :
-### Drelicious Arcanius<br><br>Drelicious Arcanius is an organization that's leaded by Drelicious. This organization is aimed to tackle new things and to share the beautiful power of code.<br><br># Where can you contact me?<br>- ✉️ : drelicious@dreliciousarcanius.com
+# ✨ Drelicious Arcanius 
+<br><br>Drelicious Arcanius is an organization that's leaded by Drelicious. This organization is aimed to tackle new things and to share the beautiful power of code.<br><br># Where can you contact me?<br>- ✉️ : drelicious@dreliciousarcanius.com
 
 
 ## 🌐 Socials:
