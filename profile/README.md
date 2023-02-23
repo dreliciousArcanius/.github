@@ -1,6 +1,14 @@
 # ✨ Drelicious Arcanius 
-**Drelicious Arcanius is an organization that's leaded by Drelicious. This organization is aimed to tackle new things and to share the beautiful power of code.<br><br># Where can you contact me?<br>- ✉️ : drelicious@dreliciousarcanius.com**
 
+**Welcome to Drelicious Arcanius, a community-driven organization founded by Drelicious! Our mission is to explore new technologies and share the power of code with the world.**
+
+At Drelicious Arcanius, we believe that technology can make the world a better place. That's why we're constantly pushing the boundaries of what's possible, and working to create innovative solutions to real-world problems. We're passionate about building tools and applications that make life easier, more efficient, and more enjoyable.
+
+Our team is made up of developers, designers, and other tech enthusiasts from around the world. We're dedicated to collaborating and sharing knowledge, and we're always looking for new members to join our community. Whether you're a seasoned pro or just getting started, there's a place for you at Drelicious Arcanius.
+
+So come join us and be part of the future of technology! Check out our repositories to see what we're working on, or get in touch to learn more about our organization. We can't wait to hear from you!
+
+<br>Where can you contact me?<br>- ✉️ : drelicious@dreliciousarcanius.com
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/drelArcanius) 
